@@ -14,3 +14,5 @@ Then add its custom tags where you want to have it displayed in your page: `<seb
 The components won't display anything until it gets a list of currencies throuhg Javascript. To pass it a list of currencies use its currencyList property like: `document.querySelector('seb-currency-calculator').currencyList = ['currencyListObjects']`. The list is an array of currency objects, an example can be found in the `crc-example.json` in this project's folder.
 
 The component will take 100% width of it's parent element, so be sure to set the width of the parent element accordingly.
+
+Example of integration can be seen in the `index.html` in the project's folder.
