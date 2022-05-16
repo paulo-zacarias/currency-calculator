@@ -1,0 +1,37 @@
+[
+  {
+    "currency": "USA dollar",
+    "code": "USD",
+    "rate": 1.0674
+  },
+  {
+    "currency": "Taani kroon",
+    "code": "DKK",
+    "rate": 7.4393
+  },
+  {
+    "currency": "Suurbritannia nael",
+    "code": "GBP",
+    "rate": 0.84135
+  },
+  {
+    "currency": "Jaapani jeen",
+    "code": "JPY",
+    "rate": 136.15
+  },
+  {
+    "currency": "Norra kroon",
+    "code": "NOK",
+    "rate": 9.7943
+  },
+  {
+    "currency": "Rootsi kroon",
+    "code": "SEK",
+    "rate": 10.3935
+  },
+  {
+    "currency": "Hongkongi dollar",
+    "code": "HKD",
+    "rate": 8.586
+  }
+]
